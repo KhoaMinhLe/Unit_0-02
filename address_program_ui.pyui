@@ -1,0 +1,71 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{190, 82}, {175, 88}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "34DE77C1-1088-4CB4-A1DF-20DEFDEEFBFD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Khoa Le",
+          "number_of_lines" : 0,
+          "name" : "name_label",
+          "font_size" : 40
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{190, 171}, {169, 81}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "5654454C-83E7-4A9C-AD7F-3F2D745EA083",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ontario",
+          "name" : "Province_label",
+          "font_size" : 40
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{179, 252}, {180, 72}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "7AA70AEA-A2B1-499E-9788-AFCB55C904CD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ottawa",
+          "name" : "City_label",
+          "font_size" : 40
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
